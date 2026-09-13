@@ -1,4 +1,3 @@
-```text
 LINK FOR COMPARISON ALGORITHMS FOR MOBCO:
 https://github.com/Samiksha-bajoria/Multi_objective_border_collie_optimization
 
@@ -184,9 +183,6 @@ MOBCO_IEEE/
 │       ├── load_data.py
 │       └── run_anova_combined_fitness.py
 │
-├── MOBCO.zip
-├── Combination_graph.zip
-├── Anova_independent_runs_with_box_plots.zip
 ├── LICENSE
 └── README.md
 

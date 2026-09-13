@@ -185,7 +185,6 @@ MOBCO_IEEE/
 │
 ├── LICENSE
 └── README.md
-```bash
 
 # Performance Metrics
 
@@ -316,5 +315,5 @@ The analysis helps identify:
 - Parameter interaction effects
 
 ## Running Sensitivity Analysis
-
+```bash
 python sensitivity_analysis.py
